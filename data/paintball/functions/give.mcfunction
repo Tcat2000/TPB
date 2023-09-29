@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Paintball Gun","italic":false}'},CustomModelData:6370002} 1

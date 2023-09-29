@@ -1,0 +1,2 @@
+execute if score %shot_cooldown tpb-config matches ..0 run scoreboard players set %shot_cooldown tpb-config 1
+execute if score %shot_cooldown tpb-config matches 1001.. run scoreboard players set %shot_cooldown tpb-config 1000

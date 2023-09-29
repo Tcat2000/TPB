@@ -1,0 +1,2 @@
+execute if score %max_shoot_dist tpb-config matches ..0 run scoreboard players set %max_shoot_dist tpb-config 1
+execute if score %max_shoot_dist tpb-config matches 3001.. run scoreboard players set %max_shoot_dist tpb-config 3000
