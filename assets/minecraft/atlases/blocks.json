@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "paintball",
+            "prefix": "paintball/"
+        },
+        {
+            "type": "directory",
+            "source": "custom_gui",
+            "prefix": "gui/"
+        } 
+    ]
+}

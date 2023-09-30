@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:gui/root",
+	"textures": {
+	  "texture": "gui/crafting"
+	}
+}
