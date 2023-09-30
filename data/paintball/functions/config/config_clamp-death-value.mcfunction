@@ -1,2 +1,0 @@
-execute if score %death_value tpb-config matches ..-1 run scoreboard players set %death_value tpb-config 0
-execute if score %death_value tpb-config matches 101.. run scoreboard players set %death_value tpb-config 100
