@@ -1,14 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "Tcat's Paintball in Minecraft. version 1.0-mc1.17.1-1.20.2"
-  },
-  "supported_formats": {"min_inclusive": 8, "max_inclusive": 17},
-  "entries":
-  [
-    {
-      "directory":"a-1_20_2/paintball",
-      "formats":{"min_inclusive": 16, "max_inclusive": 17}
-    }
-  ]
+    "pack_format": 15,
+    "description": "PiantBall Datapack Resources"
+  }
 }

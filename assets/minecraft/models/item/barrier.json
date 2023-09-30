@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/barrier"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 443480}, "model": "paintball/xl_crafter_0"},
+        {"predicate": {"custom_model_data": 443481}, "model": "paintball/xl_crafter_1"},
+        {"predicate": {"custom_model_data": 443482}, "model": "gui/crafter_screen"},
+        {"predicate": {"custom_model_data": 443483}, "model": "block/barrier"}
+    ]
+}

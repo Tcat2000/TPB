@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "../../saves/Jak and Daxter world/datapacks/PaintBall"
 		},
 		{
-			"path": "../../../../resourcepacks/PaintBall"
+			"path": "."
 		}
 	],
 	"settings": {}
