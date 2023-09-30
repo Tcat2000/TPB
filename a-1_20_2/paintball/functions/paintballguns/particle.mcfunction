@@ -1,1 +1,0 @@
-$particle $(particle) ~ ~ ~ 0.2 0.2 0.2 1 100 normal @a
